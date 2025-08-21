@@ -2,7 +2,7 @@
 
 💡 *Turning coffee into code, research into impact, and ideas into businesses.*  
 
-🚀 **Developer | Cybersecurity Expert | Data Analyst | PhD Student (Materials Engineering)**  
+🚀 **Developer | Cybersecurity Expert | Data Analyst | Student at OUK (Digital forensics and Cyber Security**  
 
 I wear many hats (not literally, my hairline is still intact 😅). From **building secure platforms** to **laser-based research** and **running businesses**, I thrive on challenges that make me learn and grow.  
 
