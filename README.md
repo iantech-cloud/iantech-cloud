@@ -9,8 +9,8 @@ I wear many hats (not literally, my hairline is still intact 😅). From **build
 ---
 
 ## 🔹 About Me  
-- 🎓 Currently a **PhD Student in Materials Engineering** (Boise, Idaho)  
-- 💻 Speak fluently in **Node.js, PHP, Python, C++, MATLAB, MongoDB, MySQL, WordPress**  
+- 🎓 Currently a **Bachelor's Student in Cyber Security and Digital Forensics** (Nairobi, Kenya)  
+- 💻 Speak fluently in **Node.js, PHP, Python, C++, MATLAB, MongoDB, MySQL, WordPress,C#**  
 - 🔐 **Cybersecurity enthusiast** (a.k.a. “the guy who finds problems before hackers do”)  
 - 📊 Data analyst with an interest in **AI-powered decision-making**  
 - 🏢 **Director – Goldmine Agencies Ltd.** | **CEO – Platinum Ends Enterprise**  
