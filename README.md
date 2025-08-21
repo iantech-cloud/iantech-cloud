@@ -54,9 +54,11 @@ I wear many hats (not literally, my hairline is still intact 😅). From **build
 
 ## 🌍 Connect With Me  
 💼 [LinkedIn](#)  
-🌐 [Portfolio Website](#)  
-🛍️ [Nova Online Shop](#)  
-📧 Reach me at: **your.email@example.com**  
+🌐 [Portfolio Website](ianm.online)  
+🛍️ [HustleHub Africa](hustlehubafrica.com)
+🌐 [SkillAfrica Online](skillafrica.online)
+🌐 [Social Media and Career Guidance SaaS](onesocialstark.co.ke)
+📧 Reach me at: **muiruriian82@gmail.com**  
 
 ---
 
